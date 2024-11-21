@@ -1,6 +1,6 @@
 # Ankit Ojha : Portfolio website
 
-### Live website : [Ankit Ojha Portfolio](https://ankitojha07.github.io/ankitojha-portfolio)
+### Live website : [Ankit Ojha Portfolio](https://ankitojha07.github.io/ankitojha)
 
 # About Me
 
